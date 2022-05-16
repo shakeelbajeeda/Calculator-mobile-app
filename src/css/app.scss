@@ -1,0 +1,47 @@
+// app global css in SCSS form
+// @import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+// body {
+//   font-family: "Noto Naskh Arabic";
+// }
+.bg {
+  background-color: #001232;
+}
+.header_bg {
+  background-image: -webkit-linear-gradient(
+    169deg,
+    #5560ff 17%,
+    #aa52a1 63%,
+    #ff4343 100%
+  );
+}
+
+.index-img {
+  border-radius: 30% !important;
+  height: 140px;
+  width: 140px;
+  -webkit-border-radius: 30% !important;
+  -moz-border-radius: 30% !important;
+  -ms-border-radius: 30% !important;
+  -o-border-radius: 30% !important;
+}
+.btn_length {
+  width: 100%;
+  height: 40px;
+}
+
+.q-field--labeled .q-field__native {
+  font-weight: bold;
+  font-size: 15px;
+}
+.div_size {
+  width: 100%;
+  height: 50px;
+}
+.avatar {
+  background-image: -webkit-linear-gradient(
+    169deg,
+    #5560ff 17%,
+    #aa52a1 63%,
+    #ff4343 100%
+  );
+}
